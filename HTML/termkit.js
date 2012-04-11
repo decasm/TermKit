@@ -16,7 +16,7 @@ $(document).ready(function () {
   };
   
   $(document).mousedown(function () {
-    alert('wtf');
+//    alert('wtf');
   });
 });
 
